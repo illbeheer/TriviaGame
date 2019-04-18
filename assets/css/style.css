@@ -1,0 +1,14 @@
+body{
+	background-image: url(https://tbsila.cdn.turner.com/toonla/images/cnapac/content/1946/showpage/pokemon-black-and-white/au/background.jpg);
+	text-align: center;
+}
+
+.text-muted{
+	color: rgb(252, 255, 46);
+}
+.last-seconds{
+  color: rgb(255, 0, 212);
+}
+.option{
+  margin: 15px;
+}
